@@ -1,0 +1,22 @@
+{
+    "products" : [
+        {   
+            "id": 1,
+            "titulo": "doação 10",
+            "descricao": "doação de R$10,00",
+            "preco": 10
+        },
+        {
+            "id": 2,
+            "titulo": "doação 25",
+            "descricao": "doação de R$25,00",
+            "preco": 25
+        },
+        {
+            "id": 3,
+            "titulo": "doação 50",
+            "descricao": "doação de R$50,00",
+            "preco": 50
+        }
+    ]
+}
